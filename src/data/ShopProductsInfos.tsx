@@ -30,5 +30,4 @@ export const shopProductsInfos = [
         price: "$155",
         picture: "images/Air Jordan OG.png"
     }
-
 ]
